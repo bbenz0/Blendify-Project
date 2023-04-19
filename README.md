@@ -1,7 +1,6 @@
 # Blendify
 \
-\
-Note: This includes ONLY the readme file for the Blendify Project. The files containing code are on a separate private repository due to potential risk of leaking credentials.
+Note: This public repository ONLY includes the readme file for the Blendify Project. The files containing code are on a separate private repository due to potential risk of leaking credentials. Please contact me if you'd like to see the code :)
 \
 \
 Blendify is a recommendation engine for Spotify created by myself and two friends to create a unique experience for people to discover brand new music with a friend of their choice.
